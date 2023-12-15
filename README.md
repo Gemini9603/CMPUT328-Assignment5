@@ -1,2 +1,2 @@
-# CMPUT328-Assignment5
+# CMPUT328 - Visual Recognition
 Fall Semester 2023
